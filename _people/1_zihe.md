@@ -4,27 +4,27 @@ inline: false
 group: Faculty
 group_rank: 1
 
-title: Zihe Gao
-description: Profile of Dr. Zihe Gao, Head of the Photonics Lab.
-lastname: Gao
+title: Bosen Lian
+description: Profile of Dr. Bosen Lian, Head of the Photonics Lab.
+lastname: Lian
 publications: 'author^=*Gao'
 social: true
 
 teaser: >
-    I’m an Assistant Professor at Auburn University from August 2023.
+    I’m an Assistant Professor at Auburn University since August 2023.
     Previously, I was a postdoctoral researcher at Penn, and prior to that, I served as a postdoctoral research scientist at Meta.
 
 profile:
-    name: Zihe Gao
-    position: Leader, Auburn Photonics Lab
+    name: Bosen Lian
+    position: Leader, Auburn Learning & Decision  Lab
     align: right
-    image: gao-profile.jpg
-    email: zzg0036@auburn.edu
+    image: bosen_lian.jpg
+    email: bzl0098@auburn.edu
     orcid: zihe-gao-84b24742
     scholar_userid: uJuEHGkAAAAJ&hl # your Google Scholar ID
-    linkedin_username: zihe-gao-84b24742 # your LinkedIn user name
+    # linkedin_username: zihe-gao-84b24742 # your LinkedIn user name
     address: >
-        Broun Hall <br />
+        Broun Hall 221 <br/>
         341 War Eagle Way, Auburn, AL 36849
 ---
 
@@ -56,22 +56,22 @@ I'm a (tenure-track) Assistant Professor at the Department of Electrical and Com
 [//]: * [PROGRAMMING’19](https://2019.programming-conference.org/){: target="_blank" } (PC)
 
 
-## Reviewer for Journals
+**Selected Peer Review Services**
 
-* IEEE Transactions on Software Engineering (TSE)
-* ACM Transactions on Software Engineering and Methodology (TOSEM)
-* Springer International Journal on Very Large Data Bases (VLDB)
-* Elsevier Journal of Systems and Software (JSS)
-* Elsevier Science of Computer Programming
-* IEEE Transactions on Computers
-* Elsevier Journal of Computer Languages
-* Elsevier Knowledge-based Engineering
-* IEEE Internet Computing
-* ACM Transactions on Autonomous and Adaptive Systems (TAAS)
-* Springer Empirical Software Engineering
-* Elsevier Information and Software Technology
-* Elsevier Pervasive and Mobile Computing
-* LNCS Transactions on Aspect-Oriented Software Development
+Automatica
+IEEE Control System Letters
+IEEE Open Journal of Control Systems
+IEEE Transactions on Automatic Control
+IEEE Transactions on Cybernetics
+IEEE Transactions on Control of Network Systems
+IEEE Transactions on Industrial Electronics
+IEEE/ASME Transactions on Mechatronics
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Systems, Man, and Cybernetics: Systems
+IEEE American Control Conference
+IEEE Conference on Decision and Control
+
+
 
 
 ## Organization of Scientific Events
@@ -84,16 +84,16 @@ I'm a (tenure-track) Assistant Professor at the Department of Electrical and Com
 
 ## Education
 
-PhD, Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2018
+PhD, Electrical Engineering, University of Texas at Arlington, 2021
 
-MS, Physics, University of Illinois Urbana-Champaign, 2012
+MS, System Analysis and Integration, Northeastern University (Shenyang), 2018
 
-BS, Physics, Nanjing University, 2011
+BS, Statistics, North China University of Water Resources and Electric Power, 2015
 
 
 ## Short Bio
 
-I obtained my PhD from the University of Illinois at Urbana-Champaign under the supervision of [Prof. Kent Choquette](https://ece.illinois.edu/about/directory/faculty/choquett). My doctoral dissertation focuses on Vertical Cavity Surface Emitting Lasers (VCSELs) and coupled VCSEL arrays. After that, I was recruited by Meta (Facebook Reality Labs, AR/VR) to work on ultra-miniaturized structured-light projectors and 3D vision systems. In 2020, I returned to academia as a postdoctoral researcher in [Prof. Liang Feng's lab](https://fenglab.seas.upenn.edu/index.html) at the University of Pennsylvania where I worked on topological photonics and quantum optics. Since August 2023, I've been an assistant professor at Auburn ECE.
+I obtained my Ph.D. from the University of Texas at Arlington under the supervision of [Prof. Frank L. Lewis](https://www.uta.edu/academics/faculty/profile?username=flewis). From Dec. 2021 to Aug. 2023, I continued my research as a postdoctoral researcher working with Prof. Lewis and [Prof. Ali Davoudi](https://www.uta.edu/academics/faculty/profile?username=davoudi). During the same period, I was appointed as an adjunct professor teaching control engineering courses at UT Arlington. Since August 2023, I've been an assistant professor in the Electrical and Computer Engineering Department at Auburn University.
 
 
 ## Research Interests
