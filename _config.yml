@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Auburn Photonics Lab # the website title (if blank, full name will be used instead)
-first_name: Zihe
+title: xxx Lab # the website title (if blank, full name will be used instead)
+first_name: Bosen
 middle_name: 
-last_name: Gao
-email: zzg0036@auburn.edu
+last_name: Lian
+email: bzl0098@auburn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,7 +17,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💡  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://bosenlian.github.io # the base hostname & protocol for your site
+url: https://bosen-lian.github.io # the base hostname & protocol for your site
 base:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
