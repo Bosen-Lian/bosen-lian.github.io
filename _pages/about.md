@@ -9,9 +9,9 @@ profile:
   image: gao-profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href="/people/1_zihe"><font size="8">Zihe Gao</font></a> <a href="/people/1_zihe/#zihe_audio"><i style='font-size:24px' class='fas'>&#xf028;</i></a><p>
+    <font size="8">Bosen Lian</font></a> <p>
     <p>Assistant Professor at <a href='https://www.eng.auburn.edu/ece/'>Auburn ECE</a><p>
-    <p>422 Broun Hall</p>
+    <p>221 Broun Hall</p>
     <p>341 War Eagle Way</p>
     <p>Auburn, AL 36849</p>
 
