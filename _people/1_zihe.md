@@ -16,7 +16,7 @@ teaser: >
 
 profile:
     name: Bosen Lian
-    position: Leader, Auburn Learning & Control  Lab
+    position: Director, Auburn Learning & Control  Lab
     align: right
     image: bosen_profile.jpg
     email: bzl0098@auburn.edu
