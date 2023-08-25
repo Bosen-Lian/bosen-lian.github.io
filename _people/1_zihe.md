@@ -5,7 +5,7 @@ group: Faculty
 group_rank: 1
 
 title: Bosen Lian
-description: Profile of Dr. Bosen Lian, Head of the Photonics Lab.
+description: Profile of Dr. Bosen Lian, Director of the Learning & Control Lab.
 lastname: Lian
 publications: 'author^=*Gao'
 social: true
@@ -16,19 +16,19 @@ teaser: >
 
 profile:
     name: Bosen Lian
-    position: Leader, Auburn Learning & Decision  Lab
+    position: Leader, Auburn Learning & Control  Lab
     align: right
     image: bosen_profile.jpg
     email: bzl0098@auburn.edu
-    orcid: zihe-gao-84b24742
-    scholar_userid: uJuEHGkAAAAJ&hl # your Google Scholar ID
+    # orcid: zihe-gao-84b24742
+    scholar_userid: C2yZktgAAAAJ&hl # your Google Scholar ID
     # linkedin_username: zihe-gao-84b24742 # your LinkedIn user name
     address: >
-        Broun Hall 221 <br/>
+        Broun Hall 221 #<br/>
         341 War Eagle Way, Auburn, AL 36849
 ---
 
-I'm a (tenure-track) Assistant Professor at the Department of Electrical and Computer Engineering, Auburn University. 
+I'm a (tenure-track) Assistant Professor in the Department of Electrical and Computer Engineering at Auburn University. 
 
 
 <!-- ## Recent Pub (Selected)
