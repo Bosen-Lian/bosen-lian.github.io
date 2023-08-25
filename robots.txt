@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bosenlian.github.io/sitemap.xml
+Sitemap: https://bosen-lian.github.io/sitemap.xml
