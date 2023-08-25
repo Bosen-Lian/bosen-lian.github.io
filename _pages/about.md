@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: gao-profile.jpg
+  image: bosen_profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <font size="8">Bosen Lian</font></a> <p>
