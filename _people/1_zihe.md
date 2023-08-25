@@ -98,7 +98,7 @@ I obtained my Ph.D. from the University of Texas at Arlington under the supervis
 
 ## Research Interests
 
-My research interests emcompass optics, microelectronics, and physics. I had most of fun when I got to use all three of them. A significant portion of my past research has been devoted to the control of collective behaviors in multi-element and multimode photonic systems to build scalable and programmable integrated photonic chips for both classical and quantum applications (dynamically steerable laser sources, reconfigurable quantum optical sources, etc.).
+My research interests lie in the intersection of control theory and machine learning and their applications in robotics such as robot arms, UAVs and sensor networks.
 
 <!-- <img src="/assets/img/research_triangle2.svg" width="400"> -->
 
