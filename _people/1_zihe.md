@@ -18,7 +18,7 @@ profile:
     name: Bosen Lian
     position: Leader, Auburn Learning & Decision  Lab
     align: right
-    image: bosen_lian.jpg
+    image: bosen_profile.jpg
     email: bzl0098@auburn.edu
     orcid: zihe-gao-84b24742
     scholar_userid: uJuEHGkAAAAJ&hl # your Google Scholar ID
@@ -84,16 +84,16 @@ IEEE Conference on Decision and Control
 
 ## Education
 
-PhD, Electrical Engineering, University of Texas at Arlington, 2021
+Ph.D., Electrical Engineering, University of Texas at Arlington, 2021
 
-MS, System Analysis and Integration, Northeastern University (Shenyang), 2018
+M.S., System Analysis and Integration, Northeastern University (Shenyang), 2018
 
-BS, Statistics, North China University of Water Resources and Electric Power, 2015
+B.S., Statistics, North China University of Water Resources and Electric Power, 2015
 
 
 ## Short Bio
 
-I obtained my Ph.D. from the University of Texas at Arlington under the supervision of [Prof. Frank L. Lewis](https://www.uta.edu/academics/faculty/profile?username=flewis). From Dec. 2021 to Aug. 2023, I continued my research as a postdoctoral researcher working with Prof. Lewis and [Prof. Ali Davoudi](https://www.uta.edu/academics/faculty/profile?username=davoudi). During the same period, I was appointed as an adjunct professor teaching control engineering courses at UT Arlington. Since August 2023, I've been an assistant professor in the Electrical and Computer Engineering Department at Auburn University.
+I obtained my Ph.D. from the University of Texas at Arlington under the supervision of [Prof. Frank L. Lewis](https://www.uta.edu/academics/faculty/profile?username=flewis) in Dec. 2021. From Dec. 2021 to Aug. 2023, I continued my research as a postdoctoral researcher working with [Prof. Lewis](https://lewisgroup.uta.edu/) and [Prof. Ali Davoudi](https://www.uta.edu/academics/faculty/profile?username=davoudi). During the same time period, I was appointed as an adjunct professor teaching control engineering courses at UT Arlington. Since August 2023, I've been an assistant professor in the Electrical and Computer Engineering Department at Auburn University.
 
 
 ## Research Interests
