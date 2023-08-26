@@ -7,14 +7,14 @@ nav_rank: 5
 nav: true
 ---
 
-We're seeking passionate students eager to dive into the world of photonic devices and advanced sensing/imaging systems. If you're ready to work on cutting-edge projects, join us!
-At the moment, we are hiring at all levels (**undergraduate**, **master**, **PhD**, and **postdoc** positions, all fully funded). We also welcome summer interns.
+We're looking for self-motivated Ph.D. students who are interested in control theory, machine learning, and robotics.  If you're ready to work on cutting-edge projects, join us!
 
 
 If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
-- **Coding and Prototyping**: Designing both hardware and software to craft innovative sensing systems.
-- **Physics**: Diving deep into optics, electromagnetics, quantum mechanics, and more.
-- **Microfabrication**: Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
+- **Mathematics**: # Designing both hardware and software to craft innovative sensing systems.
+- **Control Engineering**: # Diving deep into optics, electromagnetics, quantum mechanics, and more.
+- **Physics**: # Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
+- **Computer Science**: # Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
   
 Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV and a brief expression of your interest.
 
