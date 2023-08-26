@@ -13,8 +13,8 @@ We're looking for self-motivated Ph.D. students who are interested in control th
 If at least two of the following areas resonate with your passion, our research might be the perfect fit for you:
 - **Mathematics**: # Designing both hardware and software to craft innovative sensing systems.
 - **Control Engineering**: # Diving deep into optics, electromagnetics, quantum mechanics, and more.
-- **Physics**: # Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
 - **Computer Science**: # Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
+- **Robotics**: # Immersing yourself in the cleanroom environment to fabricate laser arrays and semiconductor chips.
   
 Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV and a brief expression of your interest.
 
