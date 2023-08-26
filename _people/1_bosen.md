@@ -98,7 +98,7 @@ I obtained my Ph.D. from the University of Texas at Arlington under the supervis
 
 ## Research Interests
 
-My research interests lie in the intersection of control theory and machine learning and their applications in robotics such as robot arms, UAVs and sensor networks.
+My research interests lie in the intersection of control theory and machine learning and their applications in robotics such as robot arms, UAVs, and sensor networks.
 
 <!-- <img src="/assets/img/research_triangle2.svg" width="400"> -->
 
