@@ -86,7 +86,7 @@ IEEE Conference on Decision and Control
 
 Ph.D., Electrical Engineering, University of Texas at Arlington, 2021
 
-M.S., System Analysis and Integration, Northeastern University (Shenyang), 2018
+M.S., System Analysis and Integration, Northeastern University (China), 2018
 
 B.S., Statistics, North China University of Water Resources and Electric Power, 2015
 
