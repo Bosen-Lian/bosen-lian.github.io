@@ -27,9 +27,9 @@ We are at the intersection of control theory and machine learning.
 
 
 To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
-- **Innovative Optical Sources**: Distributed, ultrafast, and reconfigurable laser arrays.
-- **Meta-Optics**: Endowed with information processing capabilities.
-- **Quantum-Enhanced Techniques**: Going beyond the classical limits of optical sensing and imaging.
+- **Mathematics**:
+- **Control Theory**: 
+- **Robotics**: 
 
 
 By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we delve into devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
