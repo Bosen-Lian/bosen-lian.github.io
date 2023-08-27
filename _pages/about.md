@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 We are at the intersection of control theory and machine learning.
 
-Photons are unmatched in their role as carriers of information. They shape our understanding of the world, enabling us to perceive and relay information both naturally through our eyes and technologically via mediums like optical fibers, cameras, sensors, and machine vision. As emerging technologies, including wearable, implantable devices, and autonomous systems, come to the fore, they bring with them specific challenges — for example, in terms of size, weight, and power. Traditional optical systems fall short of these rigorous demands.
+
 
 
 To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
