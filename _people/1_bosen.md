@@ -12,7 +12,7 @@ social: true
 
 teaser: >
     I’m an Assistant Professor at Auburn University since August 2023.
-    Previously, I was a postdoctoral researcher at Penn, and prior to that, I served as a postdoctoral research scientist at Meta.
+    
 
 profile:
     name: Bosen Lian
