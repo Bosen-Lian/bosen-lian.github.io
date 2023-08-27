@@ -26,7 +26,7 @@ We are at the intersection of control theory and machine learning.
 
 
 
-To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
+To bridge this gap, our research steers through:
 - **Mathematics**:
 - **Control Theory**: 
 - **Robotics**: 
