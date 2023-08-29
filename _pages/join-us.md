@@ -15,6 +15,7 @@ If at least two of the following areas resonate with your passion, our research 
 - **Control Engineering**
 - **Computer Science**
 - **Robotics**
+-**physics**
   
 Keen on becoming a part of our vibrant lab? Drop me an <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a> with your CV and a brief expression of your interest.
 
