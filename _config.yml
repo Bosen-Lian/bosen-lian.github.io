@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: **Learning & Control Lab** # the website title (if blank, full name will be used instead)
-first_name: Bosen
+title: Auburn Photonics Lab # the website title (if blank, full name will be used instead)
+first_name: Zihe
 middle_name: 
-last_name: Lian
-email: bzl0098@auburn.edu
+last_name: Gao
+email: zzg0036@auburn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,8 +17,8 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💡  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://bosen-lian.github.io # the base hostname & protocol for your site
-base:  # the subpath of your site, e.g. /blog/
+url: https://zihegao.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -41,7 +41,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
-# will use title and  fields
+# will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: false
@@ -70,8 +70,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-scholar_userid: C2yZktgAAAAJ&hl # your Google Scholar ID
-#linkedin_username: bosen-lian-73087226a # your LinkedIn user name
+scholar_userid: uJuEHGkAAAAJ&hl # your Google Scholar ID
+linkedin_username: zihe-gao-84b24742 # your LinkedIn user name
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
@@ -87,12 +87,12 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
-blogger_: # your blogger 
-work_: # work page 
+blogger_url: # your blogger URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_: # your DBLP profile 
+dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
@@ -159,7 +159,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
 #   - name: 
-#     rss_: 
+#     rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
