@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Auburn Photonics Lab # the website title (if blank, full name will be used instead)
-first_name: Zihe
+title: Learning & Control Lab # the website title (if blank, full name will be used instead)
+first_name: Bosen
 middle_name: 
-last_name: Gao
+last_name: Lian
 email: zzg0036@auburn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
