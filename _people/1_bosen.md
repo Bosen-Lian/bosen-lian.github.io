@@ -105,17 +105,3 @@ My research interests lie in the intersection of control theory and machine lear
 
 
 
-
-#### How to pronounce my name?
-<a id="zihe_audio"></a>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        Zihe
-        {% include audio.html path="assets/audio/Zihe_Short.m4a" controls=true %} 
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        Gao
-        {% include audio.html path="assets/audio/Gao.m4a" controls=true %}
-    </div>
-</div>
-

@@ -32,7 +32,6 @@ To bridge this gap, our research steers through three revolutionary pathways pro
 - **Robotics**: 
 
 
-By harnessing the synergy of heterogeneously integrated photonic and microelectronic chips, we delve into devices and systems that are not only compact and robust but also scalable in terms of manufacturing.
 
 My [CV](/assets/pdf/Bosen Lian-CV.pdf)
 
