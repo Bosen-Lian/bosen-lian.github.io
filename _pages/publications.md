@@ -11,8 +11,10 @@ An up-to-date list is available on <a href='https://scholar.google.com.hk/citati
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+Note: Some papers come with code. If you have trouble making it work, please figure it out yourself.  The methods are explained in the papers.
 
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 
 </div>

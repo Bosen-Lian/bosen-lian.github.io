@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: bosen_profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -21,16 +21,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-We are at the intersection of control theory and machine learning.
 
 
-
-
-To bridge this gap, our research steers through three revolutionary pathways promising major technological advancements:
-- **Mathematics**:
-- **Control Theory**: 
-- **Robotics**: 
-
+Our research efforts are in distributed estimation, distributed control, reinforcement learning, game theory, and their intersections in cyber-physical feedback systems. Our primary objective is to design safe, optimal, and resilient multiagent systems and games and to solve data-driven control solutions, supported by rigorous provable analysis. Furthermore, we maintain a keen interest in the practical application of robotic platforms, spanning robot arms, unmanned vehicles, sensor networks, and more.
 
 
 My [CV](/assets/pdf/Bosen Lian-CV.pdf)
