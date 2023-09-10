@@ -7,7 +7,7 @@ group_rank: 1
 title: Bosen Lian
 description: Profile of Dr. Bosen Lian, Director of the Learning & Control Lab.
 lastname: Lian
-publications: 'author^=*Gao'
+publications: 'author^=*Lian'
 social: true
 
 teaser: >

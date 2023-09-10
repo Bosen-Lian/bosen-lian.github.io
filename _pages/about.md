@@ -14,6 +14,7 @@ profile:
     <p>221 Broun Hall</p>
     <p>341 War Eagle Way</p>
     <p>Auburn, AL 36849</p>
+   
 
 sitetitle: true
 news: true  # includes a list of news items
@@ -25,8 +26,7 @@ social: true  # includes social icons at the bottom of the page
 
 Our research efforts are in distributed estimation, distributed control, reinforcement learning, game theory, and their intersections in cyber-physical feedback systems. Our primary objective is to design safe, optimal, and resilient multiagent systems and games and to solve data-driven control solutions, supported by rigorous provable analysis. Furthermore, we maintain a keen interest in the practical application of robotic platforms, spanning robot arms, unmanned vehicles, sensor networks, and more.
 
-
-My [CV](/assets/pdf/Bosen Lian-CV.pdf)
+I obtained my Ph.D. from the University of Texas at Arlington under the supervision of [Prof. Frank L. Lewis](https://www.uta.edu/academics/faculty/profile?username=flewis) in Dec. 2021. From Dec. 2021 to Aug. 2023, I continued my research as a postdoctoral researcher working with [Prof. Lewis](https://lewisgroup.uta.edu/) and [Prof. Ali Davoudi](https://www.uta.edu/academics/faculty/profile?username=davoudi). During the same time period, I was appointed as an adjunct professor teaching control engineering courses at UT Arlington. Since August 2023, I've been an assistant professor in the Electrical and Computer Engineering Department at Auburn University. For more about me, please see my [CV](/assets/pdf/Bosen Lian-CV.pdf). 
 
 
 
