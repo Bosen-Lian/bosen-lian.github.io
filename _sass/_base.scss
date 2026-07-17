@@ -1045,3 +1045,12 @@ nav[data-toggle="toc"] {
   max-width: 300px;
   width: 100%;
 }
+
+.profile img,
+.profile .img-fluid,
+.profile img.img-fluid,
+.profile img.rounded {
+  max-width: 280px !important;
+  width: 100% !important;
+  height: auto !important;
+}
