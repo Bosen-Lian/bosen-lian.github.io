@@ -23,7 +23,7 @@
                                   html={https://www.sciencedirect.com/science/article/pii/S0019057818303094},
    bibtex_show={true},
     preview={SMCMDP.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -39,7 +39,7 @@
                                 html={https://ieeexplore.ieee.org/abstract/document/8574039},
    bibtex_show={true},
     preview={SMCNN.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -66,7 +66,7 @@
                               html={https://ieeexplore.ieee.org/abstract/document/9257077},
    bibtex_show={true},
     preview={DKCF.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -82,7 +82,7 @@
                             html={https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5626},
    bibtex_show={true},
     preview={onlineinverseattack.jpg},
-     selected={false}
+     selected={true}
 }
 
 @article{xue2021inverse,
@@ -97,7 +97,7 @@
                           html={https://ieeexplore.ieee.org/abstract/document/9409781},
    bibtex_show={true},
     preview={irlioc.jpg},
-     selected={false},
+     selected={true},
           code = {https://github.com/Bosen-Lian/project_wqirlioc}
 }
 
@@ -114,7 +114,7 @@
                         html={https://ieeexplore.ieee.org/abstract/document/9456852},
    bibtex_show={true},
     preview={weaklink.jpg},
-     selected={false}
+     selected={true}
 }
 
 @article{lian2021robustness,
@@ -129,7 +129,7 @@
                           html={https://ieeexplore.ieee.org/document/9460804},
    bibtex_show={true},
     preview={DKCFrobustness.jpg},
-     selected={false}
+     selected={true}
 }
 
 @article{lian2021robust,
@@ -144,7 +144,7 @@
                       html={https://ieeexplore.ieee.org/abstract/document/9515769},
    bibtex_show={true},
     preview={robust-inverseQ.jpg},
-     selected={false}
+     selected={true}
      
 }
 
@@ -160,7 +160,7 @@
                     html={https://ieeexplore.ieee.org/abstract/document/9537731},
    bibtex_show={true},
     preview={xue2021inverseQ.jpg},
-     selected={false},
+     selected={true},
      code = {https://github.com/Bosen-Lian/inverse_reinforQ_DT}
 }
 
@@ -176,7 +176,7 @@
                   html={https://ieeexplore.ieee.org/document/9565156},
    bibtex_show={true},
     preview={irlaag.jpg},
-     selected={false}
+     selected={true}
 }
 
 @inproceedings{lian2021inverse,
@@ -200,7 +200,7 @@
               html={https://ieeexplore.ieee.org/abstract/document/9794571},
    bibtex_show={true},
     preview={onlineminmax.jpg},
-     selected={false}
+     selected={true}
 }
 
 @article{lian2022data,
@@ -212,7 +212,7 @@
             html={https://ieeexplore.ieee.org/abstract/document/9815022},
    bibtex_show={true},
     preview={linearmultiplayerIRL.jpg},
-     selected={false},
+     selected={true},
                code = {https://github.com/Bosen-Lian/project_IRL_linearmultiplayer}
      
 }
@@ -229,7 +229,7 @@
           html={https://ieeexplore.ieee.org/abstract/document/9905980},
    bibtex_show={true},
     preview={donge2022multiIRL.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -245,7 +245,7 @@
         html={https://ieeexplore.ieee.org/abstract/document/9925982},
    bibtex_show={true},
     preview={anomalyspace1.png},
-     selected={false}
+     selected={true}
 }
 
 @article{lian2022distributed,
@@ -257,7 +257,7 @@
           html={https://ieeexplore.ieee.org/document/9933469},
    bibtex_show={true},
     preview={distributedminmax.jpg},
-     selected={false},
+     selected={true},
           code = {https://github.com/Bosen-Lian/project_distri_minmax}
 }
 
@@ -272,7 +272,7 @@
             html={https://www.sciencedirect.com/science/article/pii/S0005109822003843},
    bibtex_show={true},
     preview={multi-player noncooperative.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -301,7 +301,7 @@
         html={https://arxiv.org/abs/2301.01997},
    bibtex_show={true},
     preview={xue2023data.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -314,7 +314,7 @@
       html={https://ieeexplore.ieee.org/document/10045775},
    bibtex_show={true},
     preview={xue2023trajectoryimation.jpg},
-     selected={false}
+     selected={true}
 }
 
 
@@ -327,7 +327,7 @@
     html={https://ieeexplore.ieee.org/abstract/document/10076803},
    bibtex_show={true},
       preview={donge2023acceleratedRL.jpg},
-     selected={false},
+     selected={true},
           code = {https://github.com/Bosen-Lian/project_DMDRL}
 }
 
@@ -343,7 +343,7 @@
   html={https://www.sciencedirect.com/science/article/pii/S0005109823003321},
    bibtex_show={true},
    preview={lian2023offinverseQ.jpg},
-     selected={false},
+     selected={true},
      code = {https://github.com/Bosen-Lian/project_offpolicyDTanta}
 }
 
