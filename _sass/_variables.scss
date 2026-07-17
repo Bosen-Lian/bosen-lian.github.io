@@ -24,6 +24,11 @@ $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
 $grey-color:          #828282 !default;
+
+$auburn-navy:         #0C2340 !default;
+$light-auburn-navy:   lighten($auburn-navy, 25%);
+$auburn-orange:       #E87722 !default;
+$light-auburn-orange: lighten($auburn-orange, 15%);
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
