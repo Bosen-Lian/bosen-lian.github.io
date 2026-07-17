@@ -1054,3 +1054,11 @@ nav[data-toggle="toc"] {
   width: 100% !important;
   height: auto !important;
 }
+
+.profile picture,
+.profile figure {
+  max-width: 280px !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
