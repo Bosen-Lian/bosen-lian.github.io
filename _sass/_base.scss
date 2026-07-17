@@ -1034,3 +1034,14 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+// Cap profile image size on wide screens
+.profile img {
+  max-width: 300px;
+  width: 100%;
+}
+
+.profile img {
+  max-width: 300px;
+  width: 100%;
+}

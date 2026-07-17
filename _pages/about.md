@@ -5,14 +5,12 @@ permalink: /
 subtitle: 
 
 profile:
-  align: left
+  align: right
   image: bosen_profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p style="font-size: 1.6rem; font-weight: 600; margin-bottom: 0.4rem;">Bosen Lian</p>
     <p>Assistant Professor at <a href='https://www.eng.auburn.edu/ece/'>Auburn ECE</a></p>
-    <p>221 Broun Hall</p>
-    <p>341 War Eagle Way</p>
     <p>Auburn, AL 36849</p>
    
 
