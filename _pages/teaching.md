@@ -4,8 +4,19 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 5
+nav_order: 10
 ---
+
+**ELEC 3500 Control Systems, Fall 2026, ECE, Auburn University**
+
+**ELEC 5530/6530 Robot Control, Spring 2026, ECE, Auburn University**
+
+**ELEC 3500 Control Systems, Fall 2025, ECE, Auburn University**
+
+**ELEC 5970/6970 Robotics, Spring 2025, ECE, Auburn University**
+
+**ELEC 3500 Control Systems, Fall 2024, ECE, Auburn University**
+
 **ELEC 5970/6970 Robotics, Spring 2024, ECE, Auburn University**
 
 **ELEC 3500 Control Systems, Fall 2023, ECE, Auburn University**
