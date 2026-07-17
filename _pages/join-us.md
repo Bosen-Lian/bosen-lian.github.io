@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /join-us
-title: Join Us
+title: Openings
 description: 
 nav_rank: 5
 nav: true
+nav_order: 7
 ---
 
 Looking for self-motivated Ph.D. students who are interested in control theory, machine learning, and robotics.  If you're ready to work on cutting-edge projects, join us! Full Gradudate Research Assistantships (GRAs) are available for PhD candidates. Publications will be the primary output of the research group. 

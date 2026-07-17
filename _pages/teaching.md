@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 10
+nav_order: 4
 ---
 
 **ELEC 3500 Control Systems, Fall 2026, ECE, Auburn University**

@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 Please check the up-to-date list on <a href='https://scholar.google.com.hk/citations?user=C2yZktgAAAAJ&hl=en' style="color:#36AE7C;" >Google Scholar</a>.
