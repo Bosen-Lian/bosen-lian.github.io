@@ -7,28 +7,73 @@ nav: true
 nav_order: 4
 ---
 
-**ELEC 3500 Control Systems, Fall 2026, ECE, Auburn University**
+I regularly teach **Control Systems** (undergraduate) in the fall and **Robotics / Robot Control** (graduate and undergraduate) in the spring in electrical and computer engineering (ECE) department at Auburn University. Syllabi, lecture notes, and handouts for each course are linked below.
 
-**ELEC 5530/6530 Robot Control, Spring 2026, ECE, Auburn University**
+---
 
-**ELEC 3500 Control Systems, Fall 2025, ECE, Auburn University**
+## ELEC 3500 — Control Systems
 
-**ELEC 5970/6970 Robotics, Spring 2025, ECE, Auburn University**
 
-**ELEC 3500 Control Systems, Fall 2024, ECE, Auburn University**
-
-**ELEC 5970/6970 Robotics, Spring 2024, ECE, Auburn University**
-
-**ELEC 3500 Control Systems, Fall 2023, ECE, Auburn University**
-
-**[EE 5325/4315 Robotics](https://lewisgroup.uta.edu/ee5325/ee5325home.htm),  Spring 2023, EE, University of Texas, Arlington**
-
-**[EE 5330 Distributed Decision and Control](https://lewisgroup.uta.edu/ee5329/ee5329home.htm), Fall 2022, EE, University of Texas, Arlington**
-
-**[EE 5325/4315 Robotics](https://lewisgroup.uta.edu/ee5325/ee5325home.htm), Spring 2022,  EE, University of Texas, Arlington**
+<div class="row align-items-start">
+<div class="col-md-8" markdown="1">
 
 
 
+*Undergraduate · Fall · ECE, Auburn University*
+
+Introduction to the analysis and design of feedback control systems: modeling of dynamic systems and transfer functions, time- and frequency-domain response, stability, root-locus and frequency-domain design, and PID control.
+
+**Offered:** Fall 2023 · Fall 2024 · Fall 2025 · Fall 2026
+
+**Materials:**
+[Syllabus — Fall 2026 (PDF)]({{ '/assets/pdf/elec3500-syllabus-f26.pdf' | relative_url }}) ·
+[Lecture Notes]({{ '/assets/pdf/elec3500-notes.pdf' | relative_url }}) ·
+[Handouts]({{ '/assets/pdf/elec3500-handouts.pdf' | relative_url }})
+
+
+
+</div>
+<div class="col-md-4 text-center">
+<img src="{{ '/assets/img/teaching/control_systems.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 400px;" alt="Control Systems">
+</div>
+</div>
+
+
+
+
+
+---
+
+## ELEC 5530/6530 — Robot Control
+
+<div class="row align-items-center">
+<div class="col-md-8" markdown="1">
+
+
+
+*Graduate · Spring · ECE, Auburn University*
+*(offered as ELEC 5970/6970 Robotics before Spring 2026)*
+
+Modeling and control of robotic systems: rigid-body kinematics and dynamics, trajectory generation, and feedback control of manipulators and multi-agent / mobile robots.
+
+**Offered:** Spring 2024 · Spring 2025 · Spring 2026
+
+**Materials:**
+[Syllabus — Spring 2026 (PDF)]({{ '/assets/pdf/elec5530-syllabus-s26.pdf' | relative_url }}) ·
+[Lecture Notes]({{ '/assets/pdf/elec5530-notes.pdf' | relative_url }})
+
+</div>
+<div class="col-md-4">
+<img src="{{ '/assets/img/teaching/robot_control.PNG' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Robot Control">
+</div>
+</div>
+
+---
+
+## Earlier Courses — University of Texas, Arlington
+
+- **[EE 5325/4315 Robotics](https://lewisgroup.uta.edu/ee5325/ee5325home.htm)** — Spring 2022, Spring 2023, EE
+- **[EE 5330 Distributed Decision and Control](https://lewisgroup.uta.edu/ee5329/ee5329home.htm)** — Fall 2022, EE
 
 
 
