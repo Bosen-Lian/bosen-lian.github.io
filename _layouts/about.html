@@ -29,6 +29,10 @@ layout: default
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
+            <div class="name-social-row">
+              <span class="profile-name">{{ site.first_name }} {{ site.last_name }}</span>
+              {%- if page.social %}<span class="inline-social">{% include social.html %}</span>{%- endif %}
+            </div>
             <div class="address">
               {{ page.profile.address }}
             </div>
@@ -36,21 +40,9 @@ layout: default
             <div class="contact-note">
               {{ site.contact_note }}
               {%- if site.email -%}
-              <a href="mailto:{{ site.email | encode_email }}" title="email">Email <i class="fas fa-envelope"></i></a> is the best way to reach me.
               {% endif %} 
             </div>
 
-                      <!-- Social -->
-              {%- if page.social %}
-                <div class="social">
-                  <div class="contact-icons">
-                    {% include social.html %}
-                  </div>
-
-
-
-                </div>
-              {%- endif %}
           
             {%- endif %}
           </div>

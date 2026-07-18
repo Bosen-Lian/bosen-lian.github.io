@@ -139,7 +139,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
 
     .address {
       p {
@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -1065,4 +1065,50 @@ nav[data-toggle="toc"] {
 
 div.profile.float-right {
   max-width: 300px !important;
+}
+
+.name-social-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+.name-social-row .profile-name {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.name-social-row .inline-social {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.95rem;
+  line-height: 1;
+}
+.name-social-row .inline-social a {
+  color: var(--global-text-color);
+}
+.name-social-row .inline-social a:hover {
+  color: var(--global-theme-color);
+}
+
+.profile img {
+  height: 420px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+}
+
+.profile img,
+.profile picture img {
+  height: 420px !important;
+  width: 100% !important;
+  object-fit: cover !important;
+  object-position: center 20% !important;
+}
+
+.profile + .clearfix p,
+.clearfix .post-content p,
+.clearfix p {
+  font-size: 1.15rem;
+  line-height: 1.7;
 }
