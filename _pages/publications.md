@@ -11,19 +11,29 @@ Please check the up-to-date list on <a href='https://scholar.google.com.hk/citat
 <!-- _pages/publications.md -->
 <div class="publications">
 
-
 This Software was developed under Research Sponsored by:
 <br>
-Army Research Office, Army DEVCOM
+National Science Foundation (NSF)
 <br>
-Office of Naval Research
+Army Research Office (ARO)
+<br>
+Office of Naval Research (ONR)
 
 <br>
 <br>
 Note: Only a few example papers come with code. If you have trouble making it work, please figure it out yourself.  The methods are explained in the papers.
 
+<br>
+<br>
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+<h2 class="bibliography">Books</h2>
+{% bibliography --query @book %}
 
+<h2 class="bibliography">Book Chapters</h2>
+{% bibliography --query @incollection %}
+
+<h2 class="bibliography">Journal & Conference Publications</h2>
+{% bibliography --query @article %}
+{% bibliography --query @inproceedings %}
 
 </div>
