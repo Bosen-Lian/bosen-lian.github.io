@@ -37,7 +37,7 @@ The lab has led hands-on robotics and AI outreach for K-12 students in rural Ala
 <div class="row align-items-center">
 <div class="col-md-7" markdown="1">
 
-**RoboLab camp (2025)** — a K-5 lab tour and an ML-based robotics lecture (provided by our lab member). This introduced young students to AI and robotics through a real research lab, while giving a lab member early experience mentoring and communicating science to the public.
+**RoboLab camp (2025)** — a K-5 lab tour and an ML-based robotics lecture (provided by our lab member), run by [Auburn Engineering K-12 Outreach](https://eng.auburn.edu/outreach/index). This introduced young students to AI and robotics through a real research lab, while giving a lab member early experience mentoring and communicating science to the public.
 
 </div>
 <div class="col-md-5 text-center" markdown="1">
