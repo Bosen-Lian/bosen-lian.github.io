@@ -28,7 +28,7 @@ nav_order: 5
 </div>
 <div class="col-md-4 mb-4" markdown="1">
 <div class="ratio ratio-16x9 rounded z-depth-1">
-<iframe src="https://www.youtube.com/embed/zrXRZwmwLGo?start=4" title="Three-drone swarm" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zrXRZwmwLGo" title="Three-drone swarm" allowfullscreen></iframe>
 </div>
 
 **Three-drone swarm.** Multi-agent swarm coordination with three quadrotors.
@@ -41,13 +41,30 @@ nav_order: 5
 
 **Behavior anomaly detection and correction.** Single-UAV behavior imitation.
 
+
+
+</div>
+<div class="col-md-4 mb-4" markdown="1">
+<div class="ratio ratio-16x9 rounded z-depth-1">
+<iframe src="https://www.youtube.com/embed/QHYYJwoNYUA" title="UAV swarm cluster control" allowfullscreen></iframe>
+</div>
+
+**UAV Swarm Cluster Containment Control.** How Swarm Learn to Cluster Themselves.
+
+
+
+
+
+
 </div>
 </div>
 
 
 ## Undergraduate Research
 
-Research posters by undergraduate researchers in the lab.
+Research posters/reports by undergraduate researchers
+
+
 
 <div class="row">
 <div class="col-md-4 mb-4 text-center" markdown="1">
@@ -75,11 +92,19 @@ Research posters by undergraduate researchers in the lab.
 
 </div>
 <div class="col-md-4 mb-4 text-center" markdown="1">
-<a href="{{ '/assets/pdf/ug-poster-4.pdf' | relative_url }}">
-<img src="{{ '/assets/img/posters/ug-poster-4.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 4">
+<a href="{{ '/assets/pdf/SURE2025.pdf' | relative_url }}">
+<img src="{{ '/assets/img/posters/JameNik.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 4">
 </a>
 
-**Project title** — Student Name, Summer 2025
+**Designing an Autonomous Drone for Future Indoor Precision Navigation** — James Byard and Nik Kandula, Summer (ECE SURE) 2025
+
+</div>
+<div class="col-md-4 mb-4 text-center" markdown="1">
+<a href="{{ '/assets/pdf/ug-poster-4.pdf' | relative_url }}">
+<img src="{{ '/assets/img/posters/Erin.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 4">
+</a>
+
+**Inverse reinforcement Learning on ROS Controlled Robot Manipulator** — Erin Bulter, Spring (EE UTA) 2023
 
 </div>
 </div>
