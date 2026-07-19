@@ -39,7 +39,7 @@ nav_order: 5
 <iframe src="https://www.youtube.com/embed/PeXKHriovMg" title="Behavior anomaly detection" allowfullscreen></iframe>
 </div>
 
-**Behavior anomaly detection and correction.** Single-UAV behavior imitation.
+**[Behavior anomaly detection and correction.]({{ '/publications/#lian2022anomaly' | relative_url }})** Single-UAV behavior imitation.
 
 
 
@@ -49,8 +49,16 @@ nav_order: 5
 <iframe src="https://www.youtube.com/embed/QHYYJwoNYUA" title="UAV swarm cluster control" allowfullscreen></iframe>
 </div>
 
-**UAV Swarm Cluster Containment Control.** How Swarm Learn to Cluster Themselves.
+**[UAV Swarm Cluster Containment Control.]({{ '/publications/#lian2025distributed' | relative_url }})** How swarms learn to cluster themselves.
 
+
+</div>
+<div class="col-md-4 mb-4" markdown="1">
+<div class="ratio ratio-16x9 rounded z-depth-1">
+<iframe src="https://www.youtube.com/embed/PzdI4P64Zoo" title="Swarm clustering and consensus" allowfullscreen></iframe>
+</div>
+
+**[Swarm Clustering and Consensus.]({{ '/publications/#lian2024distributed' | relative_url }})** How swarms self-organize into small-scale groups.
 
 
 
