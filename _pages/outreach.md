@@ -19,16 +19,38 @@ The lab's long-term education goal is to build a sustainable, learning-based con
 
 
 
+## K-12 Outreach Experience
+
+The lab has led hands-on robotics and AI outreach for K-12 students in rural Alabama, where students rarely encounter robotics or AI.
+
+<div class="row align-items-center">
+<div class="col-md-7" markdown="1">
+
+**VEX GO camp (2024)** — a one-week robotics camp for grades 6–8, run in Auburn Southeastern Center of Robotics Education [(SCORE)](https://www.auburn.edu/cosam/outreach/score/), with an "Introduction to Robotics and Control" lecture and hands-on guidance. This gave rural Alabama middle-schoolers, many encountering programmable robots for the first time — direct, hands-on exposure to robotics and control concepts.
+
+</div>
+<div class="col-md-5 text-center" markdown="1">
+<img src="{{ '/assets/img/vexgo-camp.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 320px;" alt="VEX GO robotics camp, grades 6-8">
+</div>
+</div>
+
+<div class="row align-items-center">
+<div class="col-md-7" markdown="1">
+
+**RoboLab camp (2025)** — a K-5 lab tour and an ML-based robotics lecture (provided by our lab member). This introduced young students to AI and robotics through a real research lab, while giving a lab member early experience mentoring and communicating science to the public.
+
+</div>
+<div class="col-md-5 text-center" markdown="1">
+<img src="{{ '/assets/img/robolab-camp.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 320px;" alt="RoboLab K-5 camp lab tour">
+</div>
+</div>
 
 
 
 
-**K-12 UAV Swarm Summer Camp, Auburn University**
 
-**SCORE Workshop, SLAC**
-
-
-
+## Undergraduate education, Auburn University
 
 Undergraduate researchers present their work each summer — see recent [research posters]({{ '/gallery/#undergraduate-research' | relative_url }}) in the Gallery.
+
 
