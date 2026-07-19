@@ -62,7 +62,9 @@ nav_order: 5
 
 ## Undergraduate Research
 
-Research posters/reports by undergraduate researchers
+Research posters/reports by undergraduate researchers.
+
+These projects are part of the lab's broader [education and outreach vision]({{ '/outreach/#education--outreach-vision' | relative_url }}).
 
 
 

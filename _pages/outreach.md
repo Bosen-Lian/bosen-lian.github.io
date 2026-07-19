@@ -30,5 +30,5 @@ The lab's long-term education goal is to build a sustainable, learning-based con
 
 
 
-
+Undergraduate researchers present their work each summer — see recent [research posters]({{ '/gallery/#undergraduate-research' | relative_url }}) in the Gallery.
 
