@@ -12,7 +12,7 @@ nav_order: 5
 <div class="row">
 <div class="col-md-4 mb-4" markdown="1">
 <div class="ratio ratio-16x9 rounded z-depth-1">
-<iframe src="https://www.youtube.com/embed/ID_FOR_1DRONE" title="Single-drone scanning" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/RgPxT7Jryt8" title="Single-drone scanning" allowfullscreen></iframe>
 </div>
 
 **Single-drone scanning.** Autonomous coverage scan with one quadrotor.
@@ -20,7 +20,7 @@ nav_order: 5
 </div>
 <div class="col-md-4 mb-4" markdown="1">
 <div class="ratio ratio-16x9 rounded z-depth-1">
-<iframe src="https://www.youtube.com/embed/ID_FOR_2DRONES" title="Two-drone cooperation" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VGZRGAAaP9Q" title="Two-drone cooperation" allowfullscreen></iframe>
 </div>
 
 **Two-drone cooperation.** Cooperative control of a two-quadrotor team.
@@ -28,10 +28,18 @@ nav_order: 5
 </div>
 <div class="col-md-4 mb-4" markdown="1">
 <div class="ratio ratio-16x9 rounded z-depth-1">
-<iframe src="https://www.youtube.com/embed/ID_FOR_3DRONES" title="Three-drone swarm" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zrXRZwmwLGo?start=4" title="Three-drone swarm" allowfullscreen></iframe>
 </div>
 
 **Three-drone swarm.** Multi-agent swarm coordination with three quadrotors.
+
+</div>
+<div class="col-md-4 mb-4" markdown="1">
+<div class="ratio ratio-16x9 rounded z-depth-1">
+<iframe src="https://www.youtube.com/embed/PeXKHriovMg" title="Behavior anomaly detection" allowfullscreen></iframe>
+</div>
+
+**Behavior anomaly detection and correction.** Single-UAV behavior imitation.
 
 </div>
 </div>
