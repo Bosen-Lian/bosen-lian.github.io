@@ -10,15 +10,15 @@ lastname: Joy
 social: true
 
 teaser: >
-    Ph.D. student working on robotics, learning-based control, and multi-agent robotic systems.
+    Ph.D. student working on reinforcement learning, inverse optimal control, and multi-agent robotics.
 
 profile:
     name: Md Hasanuzzaman Chowdhury Joy
     position: Ph.D. Student, Electrical & Computer Engineering
     align: right
-    image: joy.jpg
-    email: mzm0411@auburn.edu
-    linkedin_username: mesbah-maruf
+    image: Joy.jpg
+    email: mdj0050@auburn.edu
+    linkedin_username: md-hasanuzzaman-chowdhury-joy
     address: >
         Broun Hall <br/>
         Auburn University, Auburn, AL 36849
@@ -28,10 +28,10 @@ I'm a Ph.D. student in the Department of Electrical and Computer Engineering at 
 
 ## Education
 
-M.S., Biosystems Engineering, Auburn University
+Ph.D., Electrical and Computer Engineering, Auburn University, Alabama, USA
 
-B.S., Mechanical Engineering, Islamic University of Technology, Bangladesh
+B.Sc., Electrical and Electronic Engineering, Shahjalal University of Science and Technology, Sylhet, Bangladesh
 
 ## Research Interests
 
-Robotics, nonlinear and adaptive control, learning-based control, and multi-agent robotic systems.
+Reinforcement learning, inverse optimal control, and multi-agent robotics.

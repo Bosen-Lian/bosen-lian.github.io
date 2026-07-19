@@ -4,33 +4,32 @@ inline: false
 group: Graduate Students
 group_rank: 2
 
-title: Chris Colon
-description: Profile of Md Mesbahul Maruf, Ph.D. Student in the Learning & Control Lab.
-lastname: Maruf
+title: Christopher Colon
+description: Profile of Christopher Colon, M.S. Student in the Learning & Control Lab.
+lastname: Colon
 social: true
 
 teaser: >
-    Ph.D. student working on robotics, learning-based control, and multi-agent robotic systems.
+    M.S. student driven by a passion for robotics and computer engineering, developing innovative solutions for real-time systems and automation.
 
 profile:
-    name: Chris Colon
-    position: Ph.D. Student, Electrical & Computer Engineering
+    name: Christopher Colon
+    position: M.S. Student, Electrical & Computer Engineering
     align: right
     image: chris.jpg
-    email: mzm0411@auburn.edu
-    linkedin_username: mesbah-maruf
+    email: crc0128@auburn.edu
+    linkedin_username: christophercolon2003
     address: >
         Broun Hall <br/>
         Auburn University, Auburn, AL 36849
 ---
 
-I'm a Ph.D. student in the Department of Electrical and Computer Engineering at Auburn University, advised by [Prof. Bosen Lian](https://bosen-lian.github.io/).
+I'm an M.S. student in the Department of Electrical and Computer Engineering at Auburn University, advised by [Prof. Bosen Lian](https://bosen-lian.github.io/). Driven by a passion for robotics and computer engineering, I am dedicated to developing innovative solutions for real-time systems and automation.
 
 ## Education
 
-B.S., Electrical and Computer Engineering, Auburn University
-
+B.S., Computer Engineering, Auburn University
 
 ## Research Interests
 
-Robotics, nonlinear and adaptive control, learning-based control, and multi-agent robotic systems.
+Robotics, real-time systems, automation, machine learning, artificial intelligence, reinforcement learning, inverse reinforcement learning, learning-based control, and multi-agent robotic systems.
