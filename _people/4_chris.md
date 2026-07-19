@@ -24,7 +24,7 @@ profile:
         Auburn University, Auburn, AL 36849
 ---
 
-I'm an M.S. student in the Department of Electrical and Computer Engineering at Auburn University, advised by [Prof. Bosen Lian](https://bosen-lian.github.io/). Driven by a passion for robotics and computer engineering, I am dedicated to developing innovative solutions for real-time systems and automation.
+I'm a graduate student in the Department of Electrical and Computer Engineering at Auburn University, advised by [Prof. Bosen Lian](https://bosen-lian.github.io/). Driven by a passion for robotics and computer engineering, I am dedicated to developing innovative solutions for real-time systems and automation.
 
 ## Education
 
