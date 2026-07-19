@@ -5,16 +5,16 @@ group: Graduate Students
 group_rank: 2
 
 title: Christopher Colon
-description: Profile of Christopher Colon, M.S. Student in the Learning & Control Lab.
+description: Profile of Christopher Colon, graduate Student in the Learning & Control Lab.
 lastname: Colon
 social: true
 
 teaser: >
-    M.S. student driven by a passion for robotics and computer engineering, developing innovative solutions for real-time systems and automation.
+    Graduate student driven by a passion for robotics and computer engineering, developing innovative solutions for real-time systems and automation.
 
 profile:
     name: Christopher Colon
-    position: M.S. Student, Electrical & Computer Engineering
+    position: Graduate Student, Electrical & Computer Engineering
     align: right
     image: chris.jpg
     email: crc0128@auburn.edu
