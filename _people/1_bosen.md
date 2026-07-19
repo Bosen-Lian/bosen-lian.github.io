@@ -31,56 +31,36 @@ profile:
 I'm a (tenure-track) Assistant Professor in the Department of Electrical and Computer Engineering at Auburn University. 
 
 
-<!-- ## Recent Pub (Selected)
-
-* [ECOOP’24](https://conf.researchr.org/home/ecoop-2024){: target="_blank" } (Co-Chair)
-* [OOPSLA’24](https://2024.splashcon.org/){: target="_blank" } (PC)
-* [ICSE’24 NIER](https://conf.researchr.org/home/icse-2024){: target="_blank" } (PC)
-* [PROGRAMMING’24](https://2024.programming-conference.org/){: target="_blank" } (PC)
-* [ECOOP’23](https://conf.researchr.org/home/ecoop-2022){: target="_blank" } (Co-Chair)
-* [ICSME’23]( https://conf.researchr.org/home/icsme-2023){: target="_blank" } (PC)
-* [ISSTA’23](https://conf.researchr.org/home/issta-2023){: target="_blank" } (PC)
-* [OOPSLA’23](https://2023.splashcon.org/){: target="_blank" } (PC)
-* [ICSE’23 NIER](https://conf.researchr.org/home/icse-2023){: target="_blank" } (PC)
-* [ICSE’22](https://conf.researchr.org/home/icse-2022){: target="_blank" } (PC)
-* [ECOOP’22](https://conf.researchr.org/home/ecoop-2022){: target="_blank" } (PC)
-* [ESOP’21](https://etaps.org/2021/esop){: target="_blank" } (PC)  
-* [ACSOS'21](https://conf.researchr.org/home/acsos-2021){: target="_blank" } (PC)
-* [ECOOP’20](https://2020.ecoop.org/){: target="_blank" } (PC)
-* [ICFP’20](https://icfp20.sigplan.org/){: target="_blank" } (ERC)
-* [PROGRAMMING’20](https://2020.programming-conference.org/){: target="_blank" } (PC)
-
-[//]: * [CCGrid’20](http://cloudbus.org/ccgrid2020/){: target="_blank" } (PC)
-[//]: * [FORTE’19](http://www.discotec.org/2019/forte.html){: target="_blank" } (PC)
-[//]: * [MPLR’19](https://conf.researchr.org/home/mplr-2019){: target="_blank" } (PC)
-[//]: * [PROGRAMMING’19](https://2019.programming-conference.org/){: target="_blank" } (PC)
-
-
+<!--
 **Selected Peer Review Services**
 
-Automatica
-IEEE Control System Letters
-IEEE Open Journal of Control Systems
-IEEE Transactions on Automatic Control
-IEEE Transactions on Cybernetics
-IEEE Transactions on Control of Network Systems
-IEEE Transactions on Industrial Electronics
-IEEE/ASME Transactions on Mechatronics
-IEEE Transactions on Neural Networks and Learning Systems
-IEEE Transactions on Systems, Man, and Cybernetics: Systems
-IEEE American Control Conference
-IEEE Conference on Decision and Control
+- Automatica
+- IEEE Control Systems Letters
+- IEEE Open Journal of Control Systems
+- IEEE Transactions on Automatic Control
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Control of Network Systems
+- IEEE Transactions on Industrial Electronics
+- IEEE/ASME Transactions on Mechatronics
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- IEEE American Control Conference
+- IEEE Conference on Decision and Control
+-->
+
+## Editorial Roles
+
+- Associate Editor, *International Journal of Robust and Nonlinear Control*, April 2025–present
+- Associate Editor, *ISA Transactions*, January 2025–present
+- Associate Editor, *IEEE Transactions on Neural Networks and Learning Systems*, December 2023–present
 
 
 
+## Conference Session Organization
 
-## Organization of Scientific Events
-
-* The ACM DEBS’19 conference (with Boris Koldehofe)
-* Dagstuhl Seminar "Programming Languages for Distributed Systems and Distributed Data Management" (19442), 2019
-* NII Shonan Meeting on "Programming Languages for Distributed Systems", 2019
-* REBLS workshop series at Splash: REBLS'21,'20,'19,’18,’17,’16,’15,’14,REM’13
-* COP’16 workshop at ECOOP -->
+- **2026** — Session Chair, Workshop and Regular Sessions, *American Control Conference (ACC)*
+- **2025** — Organizer and Session Chair, Workshop and Regular Sessions, *American Control Conference (ACC)*
+- **2024** — Session Chair, *IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)*
 
 ## Education
 
@@ -98,7 +78,7 @@ I obtained my Ph.D. from the University of Texas at Arlington under the supervis
 
 ## Research Interests
 
-My research interests lie in the intersection of control theory and machine learning and their applications in robotics such as robot arms, UAVs, and sensor networks.
+My research lies at the intersection of control theory, machine learning, and game theory, drawing on insights from cognitive science to develop the mathematical and algorithmic foundations of data-driven, optimal, and scalable control of multi-agent systems, with applications to robotic systems such as robotic arms, UAVs, and sensor networks.
 
 <!-- <img src="/assets/img/research_triangle2.svg" width="400"> -->
 

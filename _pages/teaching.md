@@ -75,6 +75,18 @@ Modeling and control of robotic systems: rigid-body kinematics and dynamics, tra
 - **[EE 5325/4315 Robotics](https://lewisgroup.uta.edu/ee5325/ee5325home.htm)** — Spring 2022, Spring 2023, EE
 - **[EE 5330 Distributed Decision and Control](https://lewisgroup.uta.edu/ee5329/ee5329home.htm)** — Fall 2022, EE
 
+---
+
+## A Brief History of Control
+
+From water clocks to multi-agent autonomy — the evolution of control theory, and where learning-based control and autonomy sit today.
+
+<div class="row justify-content-center">
+<div class="col-md-10 text-center" markdown="1">
+<img src="{{ '/assets/img/history.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 1000px;" alt="Timeline of control theory from water clocks to multi-agent and learning-based control">
+</div>
+</div>
 
 
+---
 
