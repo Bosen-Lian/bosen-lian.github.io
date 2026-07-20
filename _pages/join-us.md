@@ -8,14 +8,17 @@ nav: true
 nav_order: 7
 ---
 
+<style>
+.post-title, .page-title { font-weight: 700 !important; }
+</style>
+
+
 Looking for self-motivated Ph.D. students who are interested in control theory, machine learning, and robotics.  If you're ready to work on cutting-edge projects, join us! Full Gradudate Research Assistantships (GRAs) are available for PhD candidates. Publications will be the primary output of the research group. 
 
 
 If at least one of the following areas is your background, our research will be the perfect fit for you:
 - **Mathematics**
-- **Control Engineering**
-- **Computer Science**
-- **Robotics**
+- **Control/Autonomy**
 - **Physics**
 
 <br>
@@ -57,19 +60,19 @@ Provides you with a strong foundation of skills, knowledge, and connections that
   
 **What you need to know about Auburn University**
 
-**1. Best-in-State Employer** (Forbes, 2022)
+1. Best-in-State Employer (Forbes, 2022)
 
-**2. #1 University in Alabama** (U.S. News & World Report, 2022)
+2. #1 University in Alabama (U.S. News & World Report, 2022)
 
-**3. #1 University and Best Value in Alabama**  (Niche.com, 2022)
+3. #1 University and Best Value in Alabama  (Niche.com, 2022)
   
-**4. Top 50 Public University in the Nation** (U.S. News & World Report, 2022)  
+4. Top 50 Public University in the Nation (U.S. News & World Report, 2022)  
   
-**5. Best College in Alabama** (Money, 2022)  
+5. Best College in Alabama (Money, 2022)  
 
-**6. #97 Best Colleges in the Nation** (U.S. News & World Report, 2022)
+6. #97 Best Colleges in the Nation (U.S. News & World Report, 2022)
 
-**7. #55 Best Engineering Schools** (U.S. News & World Report, 2022)
+7. #55 Best Engineering Schools (U.S. News & World Report, 2022)
 
 <br>
 
@@ -92,4 +95,8 @@ Keen on becoming a part of our lab? Drop me an <a href="mailto:{{ site.email | e
 
 To aspiring graduate students: We're eager to see your applications for Spring 2024 and Fall 2024.
 For application details, please refer to [Auburn ECE's graduate admissions page](https://www.eng.auburn.edu/ece/academics/graduate).
+
+
+---
+Copyright © 2026 Bosen Lian. All rights reserved.
 

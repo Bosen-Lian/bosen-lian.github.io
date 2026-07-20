@@ -5,12 +5,17 @@ title: Team
 description: 
 nav: true
 nav_order: 6
-nav_rank: 2
+nav_rank: 3
 ---
+
+<style>
+.post-title, .page-title { font-weight: 700 !important; }
+</style>
+
 
 {% assign groups = site.people | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
-## {{ group }}
+<h2 style="font-weight: 700; margin-top: 2rem;">{{ group }}</h2>
 
     {% assign members = site.people | sort: "lastname" | where: "group", group %}
     {% for member in members %}
@@ -64,25 +69,39 @@ nav_rank: 2
 {% endfor %}
 
 
+
+<!--
 ## Undergraduate Students
 
 - **Camille Campbell** — Department of Electrical and Computer Engineering, Auburn University, 2023–2028.
 - **Colin Bucey** — Department of Electrical and Computer Engineering, Auburn University, 2023–2027.
 - **Logan A. Green** — Research Intern, 2024–2028; Department of Electrical and Computer Engineering, University of Florida.
+-->
 
-## Alumni
+---
+
+## **Alumni**
 
 - **Yifan Zhang** — M.S. Student, 2023–2025. Now a Ph.D. student in the Department of Computer Science and Software Engineering, Auburn University.
 - **Nik Kandula** — Undergraduate Researcher, Summer 2025. Now an undergraduate student in the Department of Electrical and Computer Engineering, Auburn University.
 - **James Byard** — Undergraduate Researcher, Summer 2025. Now an undergraduate student in the Department of Electrical and Computer Engineering, Auburn University.
 
+---
 
-## Academic Family Tree
+## **Academic Family Tree**
 
 Our academic lineage traces back through generations of mathematicians and scientists — from Galileo, Huygens, and the Bernoullis through Euler, Lagrange, Fourier, and Dirichlet — to the present-day lab.
 
-<div class="row justify-content-center">
-<div class="col-md-10 text-center" markdown="1">
-<img src="{{ '/assets/img/researchfamilytree.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 1000px;" alt="Academic family tree tracing the lab's research lineage from Galileo to the present">
-</div>
-</div>
+<img src="{{ '/assets/img/researchfamilytree.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Academic family tree tracing the lab's research lineage from Galileo to the present">
+
+
+---
+
+Copyright © 2026 Bosen Lian. All rights reserved.
+
+
+
+
+
+
+

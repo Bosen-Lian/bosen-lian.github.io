@@ -7,7 +7,14 @@ nav: true
 nav_order: 5
 ---
 
-## Education & Outreach Vision
+
+<style>
+.post-title, .page-title { font-weight: 700 !important; }
+</style>
+
+---
+
+## **Education & Outreach Vision**
 
 <div class="row justify-content-center">
 <div class="col-md-10 text-center" markdown="1">
@@ -17,9 +24,9 @@ nav_order: 5
 
 The lab's long-term education goal is to build a sustainable, learning-based control and autonomy education hub at Auburn University, Alabama — one that connects K-12 outreach, undergraduate research, modernized coursework, and graduate training so each level reinforces the others. Graduate students mentor undergraduate researchers, undergraduates are recruited into graduate research, and both help K-12 outreach. The result is a self-reinforcing pipeline that broadens participation in modern autonomy, control, and robotics across Alabama. 
 
+---
 
-
-## K-12 Outreach Experience
+## **K-12 Outreach Experience**
 
 The lab has led hands-on robotics and AI outreach for K-12 students in rural Alabama, where students rarely encounter robotics or AI.
 
@@ -46,11 +53,13 @@ The lab has led hands-on robotics and AI outreach for K-12 students in rural Ala
 </div>
 
 
+---
 
 
-
-## Undergraduate education, Auburn University
+## **Undergraduate Education, Auburn University**
 
 Undergraduate researchers present their work each summer — see recent [research posters]({{ '/gallery/#undergraduate-research' | relative_url }}) in the Gallery.
 
 
+---
+Copyright © 2026 Bosen Lian. All rights reserved.
