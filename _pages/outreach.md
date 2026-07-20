@@ -30,7 +30,7 @@ The lab has led hands-on robotics and AI outreach for K-12 students in rural Ala
 
 </div>
 <div class="col-md-5 text-center" markdown="1">
-<img src="{{ '/assets/img/vexgo-camp.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 320px;" alt="VEX GO robotics camp, grades 6-8">
+<img src="{{ '/assets/img/vexgo-camp.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 500px;" alt="VEX GO robotics camp, grades 6-8">
 </div>
 </div>
 
@@ -41,7 +41,7 @@ The lab has led hands-on robotics and AI outreach for K-12 students in rural Ala
 
 </div>
 <div class="col-md-5 text-center" markdown="1">
-<img src="{{ '/assets/img/robolab-camp.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 320px;" alt="RoboLab K-5 camp lab tour">
+<img src="{{ '/assets/img/robolab-camp.png' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 500px;" alt="RoboLab K-5 camp lab tour">
 </div>
 </div>
 
