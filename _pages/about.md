@@ -10,7 +10,7 @@ profile:
   image: bosen_profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Assistant Professor at <a href='https://www.eng.auburn.edu/ece/'>Auburn ECE</a>, Auburn, AL</p>
+    <p>Assistant Professor at <a href='https://eng.auburn.edu/directory/bzl0098'>Auburn ECE</a>, Auburn, AL</p>
    
 
 sitetitle: true
