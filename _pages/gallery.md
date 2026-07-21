@@ -119,13 +119,17 @@ Project title — Student Name, Summer 2026
 
 Designing an Autonomous Drone for Future Indoor Precision Navigation — James Byard and Nik Kandula, Summer (ECE SURE) 2025
 
+
+<!--
 </div>
 <div class="col-md-4 mb-4 text-center" markdown="1">
 <a href="{{ '/assets/pdf/ug-poster-4.pdf' | relative_url }}">
 <img src="{{ '/assets/img/posters/Erin.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 4">
 </a>
 
-Inverse reinforcement Learning on ROS Controlled Robot Manipulator — Erin Bulter, Spring (EE UTA) 2023
+Inverse reinforcement Learning on ROS Controlled Robot Manipulator — Erin Butler, Spring (EE UTA) 2023
+-->
+
 
 </div>
 </div>

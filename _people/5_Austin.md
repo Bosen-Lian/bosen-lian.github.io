@@ -5,7 +5,7 @@ group: Undergraduate Students
 group_rank: 3
 
 title: Austin Veal
-description: Profile of Austin Veal, undergraduate Student in the Learning & Control Lab.
+description: Profile of Austin Veal, undergraduate Student under URF in the Learning & Control Lab.
 lastname: Veal
 social: true
 
@@ -14,7 +14,7 @@ teaser: >
 
 profile:
     name: Austin Veal
-    position: Graduate Student, Electrical & Computer Engineering
+    position: Undergraduate Student, Mechnical Engineering
     align: right
     image: Austin.jpg
     email: auv0003@auburn.edu
@@ -28,7 +28,7 @@ I'm an undergraduate student in the Department of Mechanical Engineering at Aubu
 
 ## Education
 
-B.S., Computer Engineering, Auburn University
+Currently enrolled in B.S., Mechnical Engineering, Auburn University
 
 B.S., General Science, Morehouse College
 
