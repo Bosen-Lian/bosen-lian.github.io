@@ -17,14 +17,18 @@ If at least one of the following areas is your background, our research will be 
 - **Control/Autonomy**
 - **Physics**
 <br>
+
+
  **How I can help you**
 
 **1. Full supervision.** With only two or three Ph.D. students at a time, you'll get my full attention and stay focused. I'll help develop your skills — topic selection, writing, presentation, and more.
 
 **2. Freedom.** You'll choose a topic that excites you, as long as it aligns with the lab's goals, and you'll be first author on your own leading papers.
 
-**3. Support.** You're encouraged to travel to conferences to learn the newest research and build your network, and I'll support your applications for fellowships and internships.
+**3. Support.** You're encouraged to travel to conferences to learn the newest research, and I'll support your applications for fellowships/internships.
 <br>
+
+
  **What you need**
 
 **1. Self-motivation** — the driving force that propels you through the challenges and uncertainties of the doctoral journey. It keeps you committed, focused, and adaptable while producing high-quality research and setting the stage for a successful career.
