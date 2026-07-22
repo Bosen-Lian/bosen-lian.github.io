@@ -81,58 +81,48 @@ Three-drone swarm. Multi-agent swarm coordination with three quadrotors.
 
 ## **Undergraduate Research**
 
-Research posters/reports by undergraduate researchers.
+Selected research posters/reports by undergraduate researchers.
 
 These projects are part of the lab's broader [education and outreach vision]({{ '/outreach/#education--outreach-vision' | relative_url }}).
 
-
-
 <div class="row">
 <div class="col-md-4 mb-4 text-center" markdown="1">
-<a href="{{ '/assets/pdf/ug-poster-1.pdf' | relative_url }}">
-<img src="{{ '/assets/img/posters/ug-poster-1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Logan Green poster">
-</a>
+<img src="{{ '/assets/img/posters/Logan2026sure.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Logan Green poster">
 
-Project title — Logan Green, Summer 2026
+Flight Validation of a Time-Critical Autonomous Drone Swarm System — Logan Green, Summer 2026 [[PDF]]({{ '/assets/pdf/SURE/Logan2026sure.pdf' | relative_url }})
 
 </div>
 <div class="col-md-4 mb-4 text-center" markdown="1">
-<a href="{{ '/assets/pdf/ug-poster-2.pdf' | relative_url }}">
-<img src="{{ '/assets/img/posters/ug-poster-2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Colin Bucey poster">
-</a>
+<img src="{{ '/assets/img/posters/Colin2026sure.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Colin Bucey poster">
 
-Project title — Colin Bucey, Summer 2026
+Autonomous Drone Collaboration Control — Colin Bucey, Summer 2026 [[PDF]]({{ '/assets/pdf/SURE/Colin2026sure.pdf' | relative_url }})
 
 </div>
 <div class="col-md-4 mb-4 text-center" markdown="1">
-<a href="{{ '/assets/pdf/ug-poster-3.pdf' | relative_url }}">
-<img src="{{ '/assets/img/posters/ug-poster-3.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 3">
-</a>
+<img src="{{ '/assets/img/posters/Cam2026sure.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Camille Campbell poster">
 
-Project title — Student Name, Summer 2026
+Learning-Based vs Classical Optimal Control on the Quanser QBot 3 — Camille Campbell, Summer 2026 [[PDF]]({{ '/assets/pdf/SURE/Cam2026sure.pdf' | relative_url }})
 
 </div>
 <div class="col-md-4 mb-4 text-center" markdown="1">
-<a href="{{ '/assets/pdf/SURE2025.pdf' | relative_url }}">
-<img src="{{ '/assets/img/posters/JameNik.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 4">
-</a>
+<img src="{{ '/assets/img/posters/JameNik.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="James Byard and Nik Kandula poster">
 
-Designing an Autonomous Drone for Future Indoor Precision Navigation — James Byard and Nik Kandula, Summer (ECE SURE) 2025
+Designing an Autonomous Drone for Future Indoor Precision Navigation — James Byard and Nik Kandula, Summer (ECE SURE) 2025 [[PDF]]({{ '/assets/pdf/SURE/SURE2025.pdf' | relative_url }})
 
-
-<!--
 </div>
 <div class="col-md-4 mb-4 text-center" markdown="1">
-<a href="{{ '/assets/pdf/ug-poster-4.pdf' | relative_url }}">
-<img src="{{ '/assets/img/posters/Erin.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Poster 4">
-</a>
+<img src="{{ '/assets/img/posters/2025SURE.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Summer drone experiments in the flight lab">
 
-Inverse reinforcement Learning on ROS Controlled Robot Manipulator — Erin Butler, Spring (EE UTA) 2023
--->
+Summer drone experiments — guiding undergraduate researchers in the flight lab, 2025-2026
 
 
 </div>
-</div>
+<div class="col-md-4 mb-4 text-center" markdown="1">
+<img src="{{ '/assets/img/posters/uta.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Mentoring undergraduate researchers at UT Arlington">
 
+Mentoring undergraduate researchers at UT Arlington in 2023 , prior to Auburn.
+
+</div>
+</div>
 
 Copyright © 2026 Bosen Lian. All rights reserved.
