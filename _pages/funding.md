@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /funding/
-title: Funding
+permalink: /projects/
+title: Projects
 description: 
 nav: true
 nav_order: 3
