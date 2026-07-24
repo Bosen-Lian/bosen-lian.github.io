@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /funding/
 title: Projects
 description: 
 nav: true
