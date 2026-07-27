@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Undergraduate Students
-group_rank: 1
+group_rank: 3
 
 title: Logan Green
 description: Profile of Logan Green, undergraduate student at University of Florida
