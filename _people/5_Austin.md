@@ -5,16 +5,16 @@ group: Undergraduate Students
 group_rank: 3
 
 title: Austin Veal
-description: Profile of Austin Veal, undergraduate Student under URF in the Learning & Control Lab.
+description: Profile of Austin Veal, undergraduate student in the Learning & Control Lab.
 lastname: Veal
 social: true
 
 teaser: >
-    Undergraduate student driven by a passion for robotics and computer engineering, developing innovative solutions for real-time systems and automation.
+    Undergraduate Mechanical Engineering student interested in robotics, autonomous systems, machine learning, and artificial intelligence.
 
 profile:
     name: Austin Veal
-    position: Undergraduate Student, Mechnical Engineering
+    position: Undergraduate Mechanical Engineering Student
     align: right
     image: Austin.jpg
     email: auv0003@auburn.edu
@@ -24,14 +24,14 @@ profile:
         Auburn University, Auburn, AL 36849
 ---
 
-I'm an undergraduate student in the Department of Mechanical Engineering at Auburn University. Driven by a passion for robotics and mechnical engineering.
+I'm an undergraduate Mechanical Engineering student at Auburn University and a participant in the Undergraduate Research Fellowship (URF) program. I conduct research in the Department of Electrical and Computer Engineering's Learning & Control Lab, with interests in robotics, autonomous systems, machine learning, and artificial intelligence.
 
 ## Education
 
-Currently enrolled in B.S., Mechnical Engineering, Auburn University
+B.S., Mechanical Engineering (Expected), Auburn University
 
 B.S., General Science, Morehouse College
 
 ## Research Interests
 
-Robotics, automation, manufacturing, machine learning, and artificial intelligence
+Robotics, autonomous systems, machine learning, and artificial intelligence
