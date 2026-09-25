@@ -31,6 +31,21 @@ Note: Publications are listed by their publication dates unless they have not ye
 <br>
 <br>
 
+<h2 class="bibliography">Selected Slides</h2>
+<p>
+<a href="/assets/pdf/presentations/Distributed Estimation, Objective Identification, and Intelligent Control of Multiagent Systems.pdf">Distributed Estimation, Objective Identification, and Intelligent Control of Multiagent Systems</a>
+</p>
+
+<p>
+<a href="/assets/pdf/presentations/Inverse Reinforcement Learning for Optimal Control Systems and Games.pdf">Inverse Reinforcement Learning for Optimal Control Systems and Games</a>
+</p>
+
+<p>
+<a href="/assets/pdf/presentations/Model-Free Inverse Reinforcement Learning for Discrete-Time Systems.pdf">Model-Free Inverse Reinforcement Learning for Discrete-Time Systems</a>
+</p>
+
+
+
 
 <h2 class="bibliography">Books</h2>
 {% bibliography --query @book %}
