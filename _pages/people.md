@@ -73,15 +73,18 @@ nav_rank: 3
 <!--
 ## Undergraduate Students
 
-- **Camille Campbell** — Department of Electrical and Computer Engineering, Auburn University, 2023–2028.
+- **Austin Veal** — Department of Mechanical Engineering, Auburn University, 2023–2027.
 - **Colin Bucey** — Department of Electrical and Computer Engineering, Auburn University, 2023–2027.
-- **Logan A. Green** — Research Intern, 2024–2028; Department of Electrical and Computer Engineering, University of Florida.
+
 -->
 
 ---
 
 ## **Alumni**
 
+- **Logan A. Green** — Undergraduate Researcher; Summer 2026; now an undergraduate student at Department of Electrical and Computer Engineering, University of Florida.
+- **Camille Campbell** — Undergraduate Researcher; Summer 2026; now an undergraduate student at Department of Electrical and Computer Engineering, Auburn University.
+- **Yizhong Zhang** — M.S. Student, 2023–2026. 
 - **Yifan Zhang** — M.S. Student, 2023–2025. Now a Ph.D. student in the Department of Computer Science and Software Engineering, Auburn University.
 - **Nik Kandula** — Undergraduate Researcher, Summer 2025. Now an undergraduate student in the Department of Electrical and Computer Engineering, Auburn University.
 - **James Byard** — Undergraduate Researcher, Summer 2025. Now an undergraduate student in the Department of Electrical and Computer Engineering, Auburn University.

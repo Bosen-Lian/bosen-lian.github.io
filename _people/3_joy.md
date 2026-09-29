@@ -28,7 +28,7 @@ I'm a Ph.D. student in the Department of Electrical and Computer Engineering at 
 
 ## Education
 
-Ph.D., Electrical and Computer Engineering, Auburn University, Alabama, USA
+Ph.D. (ongoing), Electrical and Computer Engineering, Auburn University, Alabama, USA
 
 B.Sc., Electrical and Electronic Engineering, Shahjalal University of Science and Technology, Sylhet, Bangladesh
 
