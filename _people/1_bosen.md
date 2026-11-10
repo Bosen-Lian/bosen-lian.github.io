@@ -50,6 +50,7 @@ I'm a (tenure-track) Assistant Professor in the Department of Electrical and Com
 
 ## Editorial Roles
 
+- Associate Editor, *IEEE Transactions on Automation Science and Engineering*, November 2026–present
 - Associate Editor, *International Journal of Robust and Nonlinear Control*, April 2025–present
 - Associate Editor, *ISA Transactions*, January 2025–present
 - Associate Editor, *IEEE Transactions on Neural Networks and Learning Systems*, December 2023–present
